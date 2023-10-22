@@ -9,6 +9,7 @@ class Car {
         this.numberOfDoors = numberOfDoors;
     }
 }
+
 class CarTest {
     public static void changeNumOfDoors(Car car, int numberOfDoors) {
         car.numberOfDoors = numberOfDoors;
